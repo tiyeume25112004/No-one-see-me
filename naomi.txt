@@ -1,0 +1,821 @@
+[{
+	"id": 422,
+	"name": "Balasundari SPI",
+	"url": "",
+	"description": "",
+	"link": "https:\/\/www.citethisforme.com\/blog\/author\/balasundari",
+	"slug": "balasundari",
+	"avatar_urls": {
+		"24": "https:\/\/secure.gravatar.com\/avatar\/2c0bb017fed5c14f060c96f5d9cc901a?s=24&d=mm&r=g",
+		"48": "https:\/\/secure.gravatar.com\/avatar\/2c0bb017fed5c14f060c96f5d9cc901a?s=48&d=mm&r=g",
+		"96": "https:\/\/secure.gravatar.com\/avatar\/2c0bb017fed5c14f060c96f5d9cc901a?s=96&d=mm&r=g"
+	},
+	"meta": [],
+	"acf": [],
+	"yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.0 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Balasundari SPI, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...<\/title>\n<meta name=\"robots\" content=\"noindex, follow\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"profile\" \/>\n<meta property=\"og:title\" content=\"Balasundari SPI, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.citethisforme.com\/blog\/author\/balasundari\" \/>\n<meta property=\"og:site_name\" content=\"Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\" \/>\n<meta property=\"og:image\" content=\"https:\/\/secure.gravatar.com\/avatar\/2c0bb017fed5c14f060c96f5d9cc901a?s=500&#038;d=mm&#038;r=g\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.citethisforme.com\/#website\",\"url\":\"https:\/\/www.citethisforme.com\/\",\"name\":\"Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/www.citethisforme.com\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"ProfilePage\",\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/balasundari#webpage\",\"url\":\"https:\/\/www.citethisforme.com\/blog\/author\/balasundari\",\"name\":\"Balasundari SPI, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\",\"isPartOf\":{\"@id\":\"https:\/\/www.citethisforme.com\/#website\"},\"breadcrumb\":{\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/balasundari#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.citethisforme.com\/blog\/author\/balasundari\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/balasundari#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/www.citethisforme.com\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Archives for Balasundari SPI\"}]},{\"@type\":\"Person\",\"@id\":\"https:\/\/www.citethisforme.com\/#\/schema\/person\/4461f0095691e7f1cf75765fd8bc894f\",\"name\":\"Balasundari SPI\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\/\/www.citethisforme.com\/#\/schema\/person\/image\/\",\"url\":\"https:\/\/secure.gravatar.com\/avatar\/2c0bb017fed5c14f060c96f5d9cc901a?s=96&d=mm&r=g\",\"contentUrl\":\"https:\/\/secure.gravatar.com\/avatar\/2c0bb017fed5c14f060c96f5d9cc901a?s=96&d=mm&r=g\",\"caption\":\"Balasundari SPI\"},\"mainEntityOfPage\":{\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/balasundari#webpage\"}}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+	"yoast_head_json": {
+		"title": "Balasundari SPI, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"robots": {
+			"index": "noindex",
+			"follow": "follow"
+		},
+		"og_locale": "en_US",
+		"og_type": "profile",
+		"og_title": "Balasundari SPI, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"og_url": "https:\/\/www.citethisforme.com\/blog\/author\/balasundari",
+		"og_site_name": "Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"og_image": [{
+			"url": "https:\/\/secure.gravatar.com\/avatar\/2c0bb017fed5c14f060c96f5d9cc901a?s=500&d=mm&r=g"
+		}],
+		"schema": {
+			"@context": "https:\/\/schema.org",
+			"@graph": [{
+				"@type": "WebSite",
+				"@id": "https:\/\/www.citethisforme.com\/#website",
+				"url": "https:\/\/www.citethisforme.com\/",
+				"name": "Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+				"description": "",
+				"potentialAction": [{
+					"@type": "SearchAction",
+					"target": {
+						"@type": "EntryPoint",
+						"urlTemplate": "https:\/\/www.citethisforme.com\/?s={search_term_string}"
+					},
+					"query-input": "required name=search_term_string"
+				}],
+				"inLanguage": "en-US"
+			}, {
+				"@type": "ProfilePage",
+				"@id": "https:\/\/www.citethisforme.com\/blog\/author\/balasundari#webpage",
+				"url": "https:\/\/www.citethisforme.com\/blog\/author\/balasundari",
+				"name": "Balasundari SPI, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+				"isPartOf": {
+					"@id": "https:\/\/www.citethisforme.com\/#website"
+				},
+				"breadcrumb": {
+					"@id": "https:\/\/www.citethisforme.com\/blog\/author\/balasundari#breadcrumb"
+				},
+				"inLanguage": "en-US",
+				"potentialAction": [{
+					"@type": "ReadAction",
+					"target": ["https:\/\/www.citethisforme.com\/blog\/author\/balasundari"]
+				}]
+			}, {
+				"@type": "BreadcrumbList",
+				"@id": "https:\/\/www.citethisforme.com\/blog\/author\/balasundari#breadcrumb",
+				"itemListElement": [{
+					"@type": "ListItem",
+					"position": 1,
+					"name": "Home",
+					"item": "https:\/\/www.citethisforme.com\/"
+				}, {
+					"@type": "ListItem",
+					"position": 2,
+					"name": "Archives for Balasundari SPI"
+				}]
+			}, {
+				"@type": "Person",
+				"@id": "https:\/\/www.citethisforme.com\/#\/schema\/person\/4461f0095691e7f1cf75765fd8bc894f",
+				"name": "Balasundari SPI",
+				"image": {
+					"@type": "ImageObject",
+					"inLanguage": "en-US",
+					"@id": "https:\/\/www.citethisforme.com\/#\/schema\/person\/image\/",
+					"url": "https:\/\/secure.gravatar.com\/avatar\/2c0bb017fed5c14f060c96f5d9cc901a?s=96&d=mm&r=g",
+					"contentUrl": "https:\/\/secure.gravatar.com\/avatar\/2c0bb017fed5c14f060c96f5d9cc901a?s=96&d=mm&r=g",
+					"caption": "Balasundari SPI"
+				},
+				"mainEntityOfPage": {
+					"@id": "https:\/\/www.citethisforme.com\/blog\/author\/balasundari#webpage"
+				}
+			}]
+		}
+	},
+	"_links": {
+		"self": [{
+			"href": "https:\/\/www.citethisforme.com\/wp-json\/wp\/v2\/users\/422"
+		}],
+		"collection": [{
+			"href": "https:\/\/www.citethisforme.com\/wp-json\/wp\/v2\/users"
+		}]
+	}
+}, {
+	"id": 400,
+	"name": "Cite This For Me",
+	"url": "",
+	"description": "",
+	"link": "https:\/\/www.citethisforme.com\/blog\/author\/wendyikemoto",
+	"slug": "wendyikemoto",
+	"avatar_urls": {
+		"24": "https:\/\/secure.gravatar.com\/avatar\/ebdd2b7dacc4f6db7f5c365c11acfaeb?s=24&d=mm&r=g",
+		"48": "https:\/\/secure.gravatar.com\/avatar\/ebdd2b7dacc4f6db7f5c365c11acfaeb?s=48&d=mm&r=g",
+		"96": "https:\/\/secure.gravatar.com\/avatar\/ebdd2b7dacc4f6db7f5c365c11acfaeb?s=96&d=mm&r=g"
+	},
+	"meta": [],
+	"acf": [],
+	"yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.0 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Cite This For Me, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...<\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/www.citethisforme.com\/blog\/author\/wendyikemoto\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"profile\" \/>\n<meta property=\"og:title\" content=\"Cite This For Me, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.citethisforme.com\/blog\/author\/wendyikemoto\" \/>\n<meta property=\"og:site_name\" content=\"Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\" \/>\n<meta property=\"og:image\" content=\"https:\/\/secure.gravatar.com\/avatar\/ebdd2b7dacc4f6db7f5c365c11acfaeb?s=500&#038;d=mm&#038;r=g\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.citethisforme.com\/#website\",\"url\":\"https:\/\/www.citethisforme.com\/\",\"name\":\"Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/www.citethisforme.com\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"ProfilePage\",\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/wendyikemoto#webpage\",\"url\":\"https:\/\/www.citethisforme.com\/blog\/author\/wendyikemoto\",\"name\":\"Cite This For Me, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\",\"isPartOf\":{\"@id\":\"https:\/\/www.citethisforme.com\/#website\"},\"breadcrumb\":{\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/wendyikemoto#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.citethisforme.com\/blog\/author\/wendyikemoto\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/wendyikemoto#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/www.citethisforme.com\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Archives for Cite This For Me\"}]},{\"@type\":\"Person\",\"@id\":\"https:\/\/www.citethisforme.com\/#\/schema\/person\/f90dd423ea6c0b52925a58f210417cd4\",\"name\":\"Cite This For Me\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\/\/www.citethisforme.com\/#\/schema\/person\/image\/\",\"url\":\"https:\/\/secure.gravatar.com\/avatar\/ebdd2b7dacc4f6db7f5c365c11acfaeb?s=96&d=mm&r=g\",\"contentUrl\":\"https:\/\/secure.gravatar.com\/avatar\/ebdd2b7dacc4f6db7f5c365c11acfaeb?s=96&d=mm&r=g\",\"caption\":\"Cite This For Me\"},\"mainEntityOfPage\":{\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/wendyikemoto#webpage\"}}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+	"yoast_head_json": {
+		"title": "Cite This For Me, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"robots": {
+			"index": "index",
+			"follow": "follow",
+			"max-snippet": "max-snippet:-1",
+			"max-image-preview": "max-image-preview:large",
+			"max-video-preview": "max-video-preview:-1"
+		},
+		"canonical": "https:\/\/www.citethisforme.com\/blog\/author\/wendyikemoto",
+		"og_locale": "en_US",
+		"og_type": "profile",
+		"og_title": "Cite This For Me, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"og_url": "https:\/\/www.citethisforme.com\/blog\/author\/wendyikemoto",
+		"og_site_name": "Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"og_image": [{
+			"url": "https:\/\/secure.gravatar.com\/avatar\/ebdd2b7dacc4f6db7f5c365c11acfaeb?s=500&d=mm&r=g"
+		}],
+		"schema": {
+			"@context": "https:\/\/schema.org",
+			"@graph": [{
+				"@type": "WebSite",
+				"@id": "https:\/\/www.citethisforme.com\/#website",
+				"url": "https:\/\/www.citethisforme.com\/",
+				"name": "Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+				"description": "",
+				"potentialAction": [{
+					"@type": "SearchAction",
+					"target": {
+						"@type": "EntryPoint",
+						"urlTemplate": "https:\/\/www.citethisforme.com\/?s={search_term_string}"
+					},
+					"query-input": "required name=search_term_string"
+				}],
+				"inLanguage": "en-US"
+			}, {
+				"@type": "ProfilePage",
+				"@id": "https:\/\/www.citethisforme.com\/blog\/author\/wendyikemoto#webpage",
+				"url": "https:\/\/www.citethisforme.com\/blog\/author\/wendyikemoto",
+				"name": "Cite This For Me, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+				"isPartOf": {
+					"@id": "https:\/\/www.citethisforme.com\/#website"
+				},
+				"breadcrumb": {
+					"@id": "https:\/\/www.citethisforme.com\/blog\/author\/wendyikemoto#breadcrumb"
+				},
+				"inLanguage": "en-US",
+				"potentialAction": [{
+					"@type": "ReadAction",
+					"target": ["https:\/\/www.citethisforme.com\/blog\/author\/wendyikemoto"]
+				}]
+			}, {
+				"@type": "BreadcrumbList",
+				"@id": "https:\/\/www.citethisforme.com\/blog\/author\/wendyikemoto#breadcrumb",
+				"itemListElement": [{
+					"@type": "ListItem",
+					"position": 1,
+					"name": "Home",
+					"item": "https:\/\/www.citethisforme.com\/"
+				}, {
+					"@type": "ListItem",
+					"position": 2,
+					"name": "Archives for Cite This For Me"
+				}]
+			}, {
+				"@type": "Person",
+				"@id": "https:\/\/www.citethisforme.com\/#\/schema\/person\/f90dd423ea6c0b52925a58f210417cd4",
+				"name": "Cite This For Me",
+				"image": {
+					"@type": "ImageObject",
+					"inLanguage": "en-US",
+					"@id": "https:\/\/www.citethisforme.com\/#\/schema\/person\/image\/",
+					"url": "https:\/\/secure.gravatar.com\/avatar\/ebdd2b7dacc4f6db7f5c365c11acfaeb?s=96&d=mm&r=g",
+					"contentUrl": "https:\/\/secure.gravatar.com\/avatar\/ebdd2b7dacc4f6db7f5c365c11acfaeb?s=96&d=mm&r=g",
+					"caption": "Cite This For Me"
+				},
+				"mainEntityOfPage": {
+					"@id": "https:\/\/www.citethisforme.com\/blog\/author\/wendyikemoto#webpage"
+				}
+			}]
+		}
+	},
+	"_links": {
+		"self": [{
+			"href": "https:\/\/www.citethisforme.com\/wp-json\/wp\/v2\/users\/400"
+		}],
+		"collection": [{
+			"href": "https:\/\/www.citethisforme.com\/wp-json\/wp\/v2\/users"
+		}]
+	}
+}, {
+	"id": 395,
+	"name": "Danny Chan",
+	"url": "",
+	"description": "",
+	"link": "https:\/\/www.citethisforme.com\/blog\/author\/dchan",
+	"slug": "dchan",
+	"avatar_urls": {
+		"24": "https:\/\/secure.gravatar.com\/avatar\/963cbcdb1c79546ba86d593a61e96782?s=24&d=mm&r=g",
+		"48": "https:\/\/secure.gravatar.com\/avatar\/963cbcdb1c79546ba86d593a61e96782?s=48&d=mm&r=g",
+		"96": "https:\/\/secure.gravatar.com\/avatar\/963cbcdb1c79546ba86d593a61e96782?s=96&d=mm&r=g"
+	},
+	"meta": [],
+	"acf": [],
+	"yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.0 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Danny Chan, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...<\/title>\n<meta name=\"robots\" content=\"noindex, follow\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"profile\" \/>\n<meta property=\"og:title\" content=\"Danny Chan, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.citethisforme.com\/blog\/author\/dchan\" \/>\n<meta property=\"og:site_name\" content=\"Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\" \/>\n<meta property=\"og:image\" content=\"https:\/\/secure.gravatar.com\/avatar\/963cbcdb1c79546ba86d593a61e96782?s=500&#038;d=mm&#038;r=g\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.citethisforme.com\/#website\",\"url\":\"https:\/\/www.citethisforme.com\/\",\"name\":\"Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/www.citethisforme.com\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"ProfilePage\",\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/dchan#webpage\",\"url\":\"https:\/\/www.citethisforme.com\/blog\/author\/dchan\",\"name\":\"Danny Chan, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\",\"isPartOf\":{\"@id\":\"https:\/\/www.citethisforme.com\/#website\"},\"breadcrumb\":{\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/dchan#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.citethisforme.com\/blog\/author\/dchan\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/dchan#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/www.citethisforme.com\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Archives for Danny Chan\"}]},{\"@type\":\"Person\",\"@id\":\"https:\/\/www.citethisforme.com\/#\/schema\/person\/c97000d11d9015dbf4c8c80d9ed34e55\",\"name\":\"Danny Chan\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\/\/www.citethisforme.com\/#\/schema\/person\/image\/\",\"url\":\"https:\/\/secure.gravatar.com\/avatar\/963cbcdb1c79546ba86d593a61e96782?s=96&d=mm&r=g\",\"contentUrl\":\"https:\/\/secure.gravatar.com\/avatar\/963cbcdb1c79546ba86d593a61e96782?s=96&d=mm&r=g\",\"caption\":\"Danny Chan\"},\"mainEntityOfPage\":{\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/dchan#webpage\"}}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+	"yoast_head_json": {
+		"title": "Danny Chan, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"robots": {
+			"index": "noindex",
+			"follow": "follow"
+		},
+		"og_locale": "en_US",
+		"og_type": "profile",
+		"og_title": "Danny Chan, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"og_url": "https:\/\/www.citethisforme.com\/blog\/author\/dchan",
+		"og_site_name": "Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"og_image": [{
+			"url": "https:\/\/secure.gravatar.com\/avatar\/963cbcdb1c79546ba86d593a61e96782?s=500&d=mm&r=g"
+		}],
+		"schema": {
+			"@context": "https:\/\/schema.org",
+			"@graph": [{
+				"@type": "WebSite",
+				"@id": "https:\/\/www.citethisforme.com\/#website",
+				"url": "https:\/\/www.citethisforme.com\/",
+				"name": "Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+				"description": "",
+				"potentialAction": [{
+					"@type": "SearchAction",
+					"target": {
+						"@type": "EntryPoint",
+						"urlTemplate": "https:\/\/www.citethisforme.com\/?s={search_term_string}"
+					},
+					"query-input": "required name=search_term_string"
+				}],
+				"inLanguage": "en-US"
+			}, {
+				"@type": "ProfilePage",
+				"@id": "https:\/\/www.citethisforme.com\/blog\/author\/dchan#webpage",
+				"url": "https:\/\/www.citethisforme.com\/blog\/author\/dchan",
+				"name": "Danny Chan, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+				"isPartOf": {
+					"@id": "https:\/\/www.citethisforme.com\/#website"
+				},
+				"breadcrumb": {
+					"@id": "https:\/\/www.citethisforme.com\/blog\/author\/dchan#breadcrumb"
+				},
+				"inLanguage": "en-US",
+				"potentialAction": [{
+					"@type": "ReadAction",
+					"target": ["https:\/\/www.citethisforme.com\/blog\/author\/dchan"]
+				}]
+			}, {
+				"@type": "BreadcrumbList",
+				"@id": "https:\/\/www.citethisforme.com\/blog\/author\/dchan#breadcrumb",
+				"itemListElement": [{
+					"@type": "ListItem",
+					"position": 1,
+					"name": "Home",
+					"item": "https:\/\/www.citethisforme.com\/"
+				}, {
+					"@type": "ListItem",
+					"position": 2,
+					"name": "Archives for Danny Chan"
+				}]
+			}, {
+				"@type": "Person",
+				"@id": "https:\/\/www.citethisforme.com\/#\/schema\/person\/c97000d11d9015dbf4c8c80d9ed34e55",
+				"name": "Danny Chan",
+				"image": {
+					"@type": "ImageObject",
+					"inLanguage": "en-US",
+					"@id": "https:\/\/www.citethisforme.com\/#\/schema\/person\/image\/",
+					"url": "https:\/\/secure.gravatar.com\/avatar\/963cbcdb1c79546ba86d593a61e96782?s=96&d=mm&r=g",
+					"contentUrl": "https:\/\/secure.gravatar.com\/avatar\/963cbcdb1c79546ba86d593a61e96782?s=96&d=mm&r=g",
+					"caption": "Danny Chan"
+				},
+				"mainEntityOfPage": {
+					"@id": "https:\/\/www.citethisforme.com\/blog\/author\/dchan#webpage"
+				}
+			}]
+		}
+	},
+	"_links": {
+		"self": [{
+			"href": "https:\/\/www.citethisforme.com\/wp-json\/wp\/v2\/users\/395"
+		}],
+		"collection": [{
+			"href": "https:\/\/www.citethisforme.com\/wp-json\/wp\/v2\/users"
+		}]
+	}
+}, {
+	"id": 420,
+	"name": "Della Anderson",
+	"url": "",
+	"description": "",
+	"link": "https:\/\/www.citethisforme.com\/blog\/author\/danderson",
+	"slug": "danderson",
+	"avatar_urls": {
+		"24": "https:\/\/secure.gravatar.com\/avatar\/6a2f328895d3aa24ee03fc846c06d3b3?s=24&d=mm&r=g",
+		"48": "https:\/\/secure.gravatar.com\/avatar\/6a2f328895d3aa24ee03fc846c06d3b3?s=48&d=mm&r=g",
+		"96": "https:\/\/secure.gravatar.com\/avatar\/6a2f328895d3aa24ee03fc846c06d3b3?s=96&d=mm&r=g"
+	},
+	"meta": [],
+	"acf": [],
+	"yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.0 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Della Anderson, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...<\/title>\n<meta name=\"robots\" content=\"noindex, follow\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"profile\" \/>\n<meta property=\"og:title\" content=\"Della Anderson, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.citethisforme.com\/blog\/author\/danderson\" \/>\n<meta property=\"og:site_name\" content=\"Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\" \/>\n<meta property=\"og:image\" content=\"https:\/\/secure.gravatar.com\/avatar\/6a2f328895d3aa24ee03fc846c06d3b3?s=500&#038;d=mm&#038;r=g\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.citethisforme.com\/#website\",\"url\":\"https:\/\/www.citethisforme.com\/\",\"name\":\"Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/www.citethisforme.com\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"ProfilePage\",\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/danderson#webpage\",\"url\":\"https:\/\/www.citethisforme.com\/blog\/author\/danderson\",\"name\":\"Della Anderson, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\",\"isPartOf\":{\"@id\":\"https:\/\/www.citethisforme.com\/#website\"},\"breadcrumb\":{\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/danderson#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.citethisforme.com\/blog\/author\/danderson\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/danderson#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/www.citethisforme.com\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Archives for Della Anderson\"}]},{\"@type\":\"Person\",\"@id\":\"https:\/\/www.citethisforme.com\/#\/schema\/person\/88db32db1225b4762ebba509a3504900\",\"name\":\"Della Anderson\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\/\/www.citethisforme.com\/#\/schema\/person\/image\/\",\"url\":\"https:\/\/secure.gravatar.com\/avatar\/6a2f328895d3aa24ee03fc846c06d3b3?s=96&d=mm&r=g\",\"contentUrl\":\"https:\/\/secure.gravatar.com\/avatar\/6a2f328895d3aa24ee03fc846c06d3b3?s=96&d=mm&r=g\",\"caption\":\"Della Anderson\"},\"mainEntityOfPage\":{\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/danderson#webpage\"}}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+	"yoast_head_json": {
+		"title": "Della Anderson, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"robots": {
+			"index": "noindex",
+			"follow": "follow"
+		},
+		"og_locale": "en_US",
+		"og_type": "profile",
+		"og_title": "Della Anderson, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"og_url": "https:\/\/www.citethisforme.com\/blog\/author\/danderson",
+		"og_site_name": "Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"og_image": [{
+			"url": "https:\/\/secure.gravatar.com\/avatar\/6a2f328895d3aa24ee03fc846c06d3b3?s=500&d=mm&r=g"
+		}],
+		"schema": {
+			"@context": "https:\/\/schema.org",
+			"@graph": [{
+				"@type": "WebSite",
+				"@id": "https:\/\/www.citethisforme.com\/#website",
+				"url": "https:\/\/www.citethisforme.com\/",
+				"name": "Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+				"description": "",
+				"potentialAction": [{
+					"@type": "SearchAction",
+					"target": {
+						"@type": "EntryPoint",
+						"urlTemplate": "https:\/\/www.citethisforme.com\/?s={search_term_string}"
+					},
+					"query-input": "required name=search_term_string"
+				}],
+				"inLanguage": "en-US"
+			}, {
+				"@type": "ProfilePage",
+				"@id": "https:\/\/www.citethisforme.com\/blog\/author\/danderson#webpage",
+				"url": "https:\/\/www.citethisforme.com\/blog\/author\/danderson",
+				"name": "Della Anderson, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+				"isPartOf": {
+					"@id": "https:\/\/www.citethisforme.com\/#website"
+				},
+				"breadcrumb": {
+					"@id": "https:\/\/www.citethisforme.com\/blog\/author\/danderson#breadcrumb"
+				},
+				"inLanguage": "en-US",
+				"potentialAction": [{
+					"@type": "ReadAction",
+					"target": ["https:\/\/www.citethisforme.com\/blog\/author\/danderson"]
+				}]
+			}, {
+				"@type": "BreadcrumbList",
+				"@id": "https:\/\/www.citethisforme.com\/blog\/author\/danderson#breadcrumb",
+				"itemListElement": [{
+					"@type": "ListItem",
+					"position": 1,
+					"name": "Home",
+					"item": "https:\/\/www.citethisforme.com\/"
+				}, {
+					"@type": "ListItem",
+					"position": 2,
+					"name": "Archives for Della Anderson"
+				}]
+			}, {
+				"@type": "Person",
+				"@id": "https:\/\/www.citethisforme.com\/#\/schema\/person\/88db32db1225b4762ebba509a3504900",
+				"name": "Della Anderson",
+				"image": {
+					"@type": "ImageObject",
+					"inLanguage": "en-US",
+					"@id": "https:\/\/www.citethisforme.com\/#\/schema\/person\/image\/",
+					"url": "https:\/\/secure.gravatar.com\/avatar\/6a2f328895d3aa24ee03fc846c06d3b3?s=96&d=mm&r=g",
+					"contentUrl": "https:\/\/secure.gravatar.com\/avatar\/6a2f328895d3aa24ee03fc846c06d3b3?s=96&d=mm&r=g",
+					"caption": "Della Anderson"
+				},
+				"mainEntityOfPage": {
+					"@id": "https:\/\/www.citethisforme.com\/blog\/author\/danderson#webpage"
+				}
+			}]
+		}
+	},
+	"_links": {
+		"self": [{
+			"href": "https:\/\/www.citethisforme.com\/wp-json\/wp\/v2\/users\/420"
+		}],
+		"collection": [{
+			"href": "https:\/\/www.citethisforme.com\/wp-json\/wp\/v2\/users"
+		}]
+	}
+}, {
+	"id": 401,
+	"name": "Elise Barbeau",
+	"url": "",
+	"description": "",
+	"link": "https:\/\/www.citethisforme.com\/blog\/author\/ebarbeau",
+	"slug": "ebarbeau",
+	"avatar_urls": {
+		"24": "https:\/\/secure.gravatar.com\/avatar\/642ebfc4527c76fa67511e9ca7b1419f?s=24&d=mm&r=g",
+		"48": "https:\/\/secure.gravatar.com\/avatar\/642ebfc4527c76fa67511e9ca7b1419f?s=48&d=mm&r=g",
+		"96": "https:\/\/secure.gravatar.com\/avatar\/642ebfc4527c76fa67511e9ca7b1419f?s=96&d=mm&r=g"
+	},
+	"meta": [],
+	"acf": [],
+	"yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.0 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Elise Barbeau, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...<\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/www.citethisforme.com\/blog\/author\/ebarbeau\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"profile\" \/>\n<meta property=\"og:title\" content=\"Elise Barbeau, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.citethisforme.com\/blog\/author\/ebarbeau\" \/>\n<meta property=\"og:site_name\" content=\"Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\" \/>\n<meta property=\"og:image\" content=\"https:\/\/secure.gravatar.com\/avatar\/642ebfc4527c76fa67511e9ca7b1419f?s=500&#038;d=mm&#038;r=g\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.citethisforme.com\/#website\",\"url\":\"https:\/\/www.citethisforme.com\/\",\"name\":\"Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/www.citethisforme.com\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"ProfilePage\",\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/ebarbeau#webpage\",\"url\":\"https:\/\/www.citethisforme.com\/blog\/author\/ebarbeau\",\"name\":\"Elise Barbeau, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\",\"isPartOf\":{\"@id\":\"https:\/\/www.citethisforme.com\/#website\"},\"breadcrumb\":{\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/ebarbeau#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.citethisforme.com\/blog\/author\/ebarbeau\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/ebarbeau#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/www.citethisforme.com\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Archives for Elise Barbeau\"}]},{\"@type\":\"Person\",\"@id\":\"https:\/\/www.citethisforme.com\/#\/schema\/person\/97a0f6ae8d693eb72e66f31a1b875857\",\"name\":\"Elise Barbeau\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\/\/www.citethisforme.com\/#\/schema\/person\/image\/\",\"url\":\"https:\/\/secure.gravatar.com\/avatar\/642ebfc4527c76fa67511e9ca7b1419f?s=96&d=mm&r=g\",\"contentUrl\":\"https:\/\/secure.gravatar.com\/avatar\/642ebfc4527c76fa67511e9ca7b1419f?s=96&d=mm&r=g\",\"caption\":\"Elise Barbeau\"},\"mainEntityOfPage\":{\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/ebarbeau#webpage\"}}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+	"yoast_head_json": {
+		"title": "Elise Barbeau, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"robots": {
+			"index": "index",
+			"follow": "follow",
+			"max-snippet": "max-snippet:-1",
+			"max-image-preview": "max-image-preview:large",
+			"max-video-preview": "max-video-preview:-1"
+		},
+		"canonical": "https:\/\/www.citethisforme.com\/blog\/author\/ebarbeau",
+		"og_locale": "en_US",
+		"og_type": "profile",
+		"og_title": "Elise Barbeau, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"og_url": "https:\/\/www.citethisforme.com\/blog\/author\/ebarbeau",
+		"og_site_name": "Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"og_image": [{
+			"url": "https:\/\/secure.gravatar.com\/avatar\/642ebfc4527c76fa67511e9ca7b1419f?s=500&d=mm&r=g"
+		}],
+		"schema": {
+			"@context": "https:\/\/schema.org",
+			"@graph": [{
+				"@type": "WebSite",
+				"@id": "https:\/\/www.citethisforme.com\/#website",
+				"url": "https:\/\/www.citethisforme.com\/",
+				"name": "Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+				"description": "",
+				"potentialAction": [{
+					"@type": "SearchAction",
+					"target": {
+						"@type": "EntryPoint",
+						"urlTemplate": "https:\/\/www.citethisforme.com\/?s={search_term_string}"
+					},
+					"query-input": "required name=search_term_string"
+				}],
+				"inLanguage": "en-US"
+			}, {
+				"@type": "ProfilePage",
+				"@id": "https:\/\/www.citethisforme.com\/blog\/author\/ebarbeau#webpage",
+				"url": "https:\/\/www.citethisforme.com\/blog\/author\/ebarbeau",
+				"name": "Elise Barbeau, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+				"isPartOf": {
+					"@id": "https:\/\/www.citethisforme.com\/#website"
+				},
+				"breadcrumb": {
+					"@id": "https:\/\/www.citethisforme.com\/blog\/author\/ebarbeau#breadcrumb"
+				},
+				"inLanguage": "en-US",
+				"potentialAction": [{
+					"@type": "ReadAction",
+					"target": ["https:\/\/www.citethisforme.com\/blog\/author\/ebarbeau"]
+				}]
+			}, {
+				"@type": "BreadcrumbList",
+				"@id": "https:\/\/www.citethisforme.com\/blog\/author\/ebarbeau#breadcrumb",
+				"itemListElement": [{
+					"@type": "ListItem",
+					"position": 1,
+					"name": "Home",
+					"item": "https:\/\/www.citethisforme.com\/"
+				}, {
+					"@type": "ListItem",
+					"position": 2,
+					"name": "Archives for Elise Barbeau"
+				}]
+			}, {
+				"@type": "Person",
+				"@id": "https:\/\/www.citethisforme.com\/#\/schema\/person\/97a0f6ae8d693eb72e66f31a1b875857",
+				"name": "Elise Barbeau",
+				"image": {
+					"@type": "ImageObject",
+					"inLanguage": "en-US",
+					"@id": "https:\/\/www.citethisforme.com\/#\/schema\/person\/image\/",
+					"url": "https:\/\/secure.gravatar.com\/avatar\/642ebfc4527c76fa67511e9ca7b1419f?s=96&d=mm&r=g",
+					"contentUrl": "https:\/\/secure.gravatar.com\/avatar\/642ebfc4527c76fa67511e9ca7b1419f?s=96&d=mm&r=g",
+					"caption": "Elise Barbeau"
+				},
+				"mainEntityOfPage": {
+					"@id": "https:\/\/www.citethisforme.com\/blog\/author\/ebarbeau#webpage"
+				}
+			}]
+		}
+	},
+	"_links": {
+		"self": [{
+			"href": "https:\/\/www.citethisforme.com\/wp-json\/wp\/v2\/users\/401"
+		}],
+		"collection": [{
+			"href": "https:\/\/www.citethisforme.com\/wp-json\/wp\/v2\/users"
+		}]
+	}
+}, {
+	"id": 408,
+	"name": "Michele Kirschenbaum",
+	"url": "",
+	"description": "",
+	"link": "https:\/\/www.citethisforme.com\/blog\/author\/michele-kirschenbaum",
+	"slug": "michele-kirschenbaum",
+	"avatar_urls": {
+		"24": "https:\/\/secure.gravatar.com\/avatar\/7aa79fd193a5d4b8f757a5b247375b6e?s=24&d=mm&r=g",
+		"48": "https:\/\/secure.gravatar.com\/avatar\/7aa79fd193a5d4b8f757a5b247375b6e?s=48&d=mm&r=g",
+		"96": "https:\/\/secure.gravatar.com\/avatar\/7aa79fd193a5d4b8f757a5b247375b6e?s=96&d=mm&r=g"
+	},
+	"meta": [],
+	"acf": [],
+	"yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.0 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Michele Kirschenbaum, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...<\/title>\n<meta name=\"robots\" content=\"index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1\" \/>\n<link rel=\"canonical\" href=\"https:\/\/www.citethisforme.com\/blog\/author\/michele-kirschenbaum\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"profile\" \/>\n<meta property=\"og:title\" content=\"Michele Kirschenbaum, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.citethisforme.com\/blog\/author\/michele-kirschenbaum\" \/>\n<meta property=\"og:site_name\" content=\"Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\" \/>\n<meta property=\"og:image\" content=\"https:\/\/secure.gravatar.com\/avatar\/7aa79fd193a5d4b8f757a5b247375b6e?s=500&#038;d=mm&#038;r=g\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.citethisforme.com\/#website\",\"url\":\"https:\/\/www.citethisforme.com\/\",\"name\":\"Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/www.citethisforme.com\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"ProfilePage\",\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/michele-kirschenbaum#webpage\",\"url\":\"https:\/\/www.citethisforme.com\/blog\/author\/michele-kirschenbaum\",\"name\":\"Michele Kirschenbaum, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\",\"isPartOf\":{\"@id\":\"https:\/\/www.citethisforme.com\/#website\"},\"breadcrumb\":{\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/michele-kirschenbaum#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.citethisforme.com\/blog\/author\/michele-kirschenbaum\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/michele-kirschenbaum#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/www.citethisforme.com\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Archives for Michele Kirschenbaum\"}]},{\"@type\":\"Person\",\"@id\":\"https:\/\/www.citethisforme.com\/#\/schema\/person\/ad2a8866e0fe78a5e6a586720686ade6\",\"name\":\"Michele Kirschenbaum\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\/\/www.citethisforme.com\/#\/schema\/person\/image\/\",\"url\":\"https:\/\/secure.gravatar.com\/avatar\/7aa79fd193a5d4b8f757a5b247375b6e?s=96&d=mm&r=g\",\"contentUrl\":\"https:\/\/secure.gravatar.com\/avatar\/7aa79fd193a5d4b8f757a5b247375b6e?s=96&d=mm&r=g\",\"caption\":\"Michele Kirschenbaum\"},\"mainEntityOfPage\":{\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/michele-kirschenbaum#webpage\"}}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+	"yoast_head_json": {
+		"title": "Michele Kirschenbaum, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"robots": {
+			"index": "index",
+			"follow": "follow",
+			"max-snippet": "max-snippet:-1",
+			"max-image-preview": "max-image-preview:large",
+			"max-video-preview": "max-video-preview:-1"
+		},
+		"canonical": "https:\/\/www.citethisforme.com\/blog\/author\/michele-kirschenbaum",
+		"og_locale": "en_US",
+		"og_type": "profile",
+		"og_title": "Michele Kirschenbaum, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"og_url": "https:\/\/www.citethisforme.com\/blog\/author\/michele-kirschenbaum",
+		"og_site_name": "Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"og_image": [{
+			"url": "https:\/\/secure.gravatar.com\/avatar\/7aa79fd193a5d4b8f757a5b247375b6e?s=500&d=mm&r=g"
+		}],
+		"schema": {
+			"@context": "https:\/\/schema.org",
+			"@graph": [{
+				"@type": "WebSite",
+				"@id": "https:\/\/www.citethisforme.com\/#website",
+				"url": "https:\/\/www.citethisforme.com\/",
+				"name": "Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+				"description": "",
+				"potentialAction": [{
+					"@type": "SearchAction",
+					"target": {
+						"@type": "EntryPoint",
+						"urlTemplate": "https:\/\/www.citethisforme.com\/?s={search_term_string}"
+					},
+					"query-input": "required name=search_term_string"
+				}],
+				"inLanguage": "en-US"
+			}, {
+				"@type": "ProfilePage",
+				"@id": "https:\/\/www.citethisforme.com\/blog\/author\/michele-kirschenbaum#webpage",
+				"url": "https:\/\/www.citethisforme.com\/blog\/author\/michele-kirschenbaum",
+				"name": "Michele Kirschenbaum, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+				"isPartOf": {
+					"@id": "https:\/\/www.citethisforme.com\/#website"
+				},
+				"breadcrumb": {
+					"@id": "https:\/\/www.citethisforme.com\/blog\/author\/michele-kirschenbaum#breadcrumb"
+				},
+				"inLanguage": "en-US",
+				"potentialAction": [{
+					"@type": "ReadAction",
+					"target": ["https:\/\/www.citethisforme.com\/blog\/author\/michele-kirschenbaum"]
+				}]
+			}, {
+				"@type": "BreadcrumbList",
+				"@id": "https:\/\/www.citethisforme.com\/blog\/author\/michele-kirschenbaum#breadcrumb",
+				"itemListElement": [{
+					"@type": "ListItem",
+					"position": 1,
+					"name": "Home",
+					"item": "https:\/\/www.citethisforme.com\/"
+				}, {
+					"@type": "ListItem",
+					"position": 2,
+					"name": "Archives for Michele Kirschenbaum"
+				}]
+			}, {
+				"@type": "Person",
+				"@id": "https:\/\/www.citethisforme.com\/#\/schema\/person\/ad2a8866e0fe78a5e6a586720686ade6",
+				"name": "Michele Kirschenbaum",
+				"image": {
+					"@type": "ImageObject",
+					"inLanguage": "en-US",
+					"@id": "https:\/\/www.citethisforme.com\/#\/schema\/person\/image\/",
+					"url": "https:\/\/secure.gravatar.com\/avatar\/7aa79fd193a5d4b8f757a5b247375b6e?s=96&d=mm&r=g",
+					"contentUrl": "https:\/\/secure.gravatar.com\/avatar\/7aa79fd193a5d4b8f757a5b247375b6e?s=96&d=mm&r=g",
+					"caption": "Michele Kirschenbaum"
+				},
+				"mainEntityOfPage": {
+					"@id": "https:\/\/www.citethisforme.com\/blog\/author\/michele-kirschenbaum#webpage"
+				}
+			}]
+		}
+	},
+	"_links": {
+		"self": [{
+			"href": "https:\/\/www.citethisforme.com\/wp-json\/wp\/v2\/users\/408"
+		}],
+		"collection": [{
+			"href": "https:\/\/www.citethisforme.com\/wp-json\/wp\/v2\/users"
+		}]
+	}
+}, {
+	"id": 417,
+	"name": "Paul Kirby",
+	"url": "",
+	"description": "",
+	"link": "https:\/\/www.citethisforme.com\/blog\/author\/pkirby",
+	"slug": "pkirby",
+	"avatar_urls": {
+		"24": "https:\/\/secure.gravatar.com\/avatar\/955d00de31cd65264eeba28083dbf305?s=24&d=mm&r=g",
+		"48": "https:\/\/secure.gravatar.com\/avatar\/955d00de31cd65264eeba28083dbf305?s=48&d=mm&r=g",
+		"96": "https:\/\/secure.gravatar.com\/avatar\/955d00de31cd65264eeba28083dbf305?s=96&d=mm&r=g"
+	},
+	"meta": [],
+	"acf": [],
+	"yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.0 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Paul Kirby, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...<\/title>\n<meta name=\"robots\" content=\"noindex, follow\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"profile\" \/>\n<meta property=\"og:title\" content=\"Paul Kirby, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.citethisforme.com\/blog\/author\/pkirby\" \/>\n<meta property=\"og:site_name\" content=\"Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\" \/>\n<meta property=\"og:image\" content=\"https:\/\/secure.gravatar.com\/avatar\/955d00de31cd65264eeba28083dbf305?s=500&#038;d=mm&#038;r=g\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.citethisforme.com\/#website\",\"url\":\"https:\/\/www.citethisforme.com\/\",\"name\":\"Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/www.citethisforme.com\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"ProfilePage\",\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/pkirby#webpage\",\"url\":\"https:\/\/www.citethisforme.com\/blog\/author\/pkirby\",\"name\":\"Paul Kirby, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\",\"isPartOf\":{\"@id\":\"https:\/\/www.citethisforme.com\/#website\"},\"breadcrumb\":{\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/pkirby#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.citethisforme.com\/blog\/author\/pkirby\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/pkirby#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/www.citethisforme.com\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Archives for Paul Kirby\"}]},{\"@type\":\"Person\",\"@id\":\"https:\/\/www.citethisforme.com\/#\/schema\/person\/70e1d186e7a20cc2a68fcce946ca0662\",\"name\":\"Paul Kirby\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\/\/www.citethisforme.com\/#\/schema\/person\/image\/\",\"url\":\"https:\/\/secure.gravatar.com\/avatar\/955d00de31cd65264eeba28083dbf305?s=96&d=mm&r=g\",\"contentUrl\":\"https:\/\/secure.gravatar.com\/avatar\/955d00de31cd65264eeba28083dbf305?s=96&d=mm&r=g\",\"caption\":\"Paul Kirby\"},\"mainEntityOfPage\":{\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/pkirby#webpage\"}}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+	"yoast_head_json": {
+		"title": "Paul Kirby, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"robots": {
+			"index": "noindex",
+			"follow": "follow"
+		},
+		"og_locale": "en_US",
+		"og_type": "profile",
+		"og_title": "Paul Kirby, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"og_url": "https:\/\/www.citethisforme.com\/blog\/author\/pkirby",
+		"og_site_name": "Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"og_image": [{
+			"url": "https:\/\/secure.gravatar.com\/avatar\/955d00de31cd65264eeba28083dbf305?s=500&d=mm&r=g"
+		}],
+		"schema": {
+			"@context": "https:\/\/schema.org",
+			"@graph": [{
+				"@type": "WebSite",
+				"@id": "https:\/\/www.citethisforme.com\/#website",
+				"url": "https:\/\/www.citethisforme.com\/",
+				"name": "Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+				"description": "",
+				"potentialAction": [{
+					"@type": "SearchAction",
+					"target": {
+						"@type": "EntryPoint",
+						"urlTemplate": "https:\/\/www.citethisforme.com\/?s={search_term_string}"
+					},
+					"query-input": "required name=search_term_string"
+				}],
+				"inLanguage": "en-US"
+			}, {
+				"@type": "ProfilePage",
+				"@id": "https:\/\/www.citethisforme.com\/blog\/author\/pkirby#webpage",
+				"url": "https:\/\/www.citethisforme.com\/blog\/author\/pkirby",
+				"name": "Paul Kirby, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+				"isPartOf": {
+					"@id": "https:\/\/www.citethisforme.com\/#website"
+				},
+				"breadcrumb": {
+					"@id": "https:\/\/www.citethisforme.com\/blog\/author\/pkirby#breadcrumb"
+				},
+				"inLanguage": "en-US",
+				"potentialAction": [{
+					"@type": "ReadAction",
+					"target": ["https:\/\/www.citethisforme.com\/blog\/author\/pkirby"]
+				}]
+			}, {
+				"@type": "BreadcrumbList",
+				"@id": "https:\/\/www.citethisforme.com\/blog\/author\/pkirby#breadcrumb",
+				"itemListElement": [{
+					"@type": "ListItem",
+					"position": 1,
+					"name": "Home",
+					"item": "https:\/\/www.citethisforme.com\/"
+				}, {
+					"@type": "ListItem",
+					"position": 2,
+					"name": "Archives for Paul Kirby"
+				}]
+			}, {
+				"@type": "Person",
+				"@id": "https:\/\/www.citethisforme.com\/#\/schema\/person\/70e1d186e7a20cc2a68fcce946ca0662",
+				"name": "Paul Kirby",
+				"image": {
+					"@type": "ImageObject",
+					"inLanguage": "en-US",
+					"@id": "https:\/\/www.citethisforme.com\/#\/schema\/person\/image\/",
+					"url": "https:\/\/secure.gravatar.com\/avatar\/955d00de31cd65264eeba28083dbf305?s=96&d=mm&r=g",
+					"contentUrl": "https:\/\/secure.gravatar.com\/avatar\/955d00de31cd65264eeba28083dbf305?s=96&d=mm&r=g",
+					"caption": "Paul Kirby"
+				},
+				"mainEntityOfPage": {
+					"@id": "https:\/\/www.citethisforme.com\/blog\/author\/pkirby#webpage"
+				}
+			}]
+		}
+	},
+	"_links": {
+		"self": [{
+			"href": "https:\/\/www.citethisforme.com\/wp-json\/wp\/v2\/users\/417"
+		}],
+		"collection": [{
+			"href": "https:\/\/www.citethisforme.com\/wp-json\/wp\/v2\/users"
+		}]
+	}
+}, {
+	"id": 418,
+	"name": "Troy Fix",
+	"url": "",
+	"description": "",
+	"link": "https:\/\/www.citethisforme.com\/blog\/author\/tfix",
+	"slug": "tfix",
+	"avatar_urls": {
+		"24": "https:\/\/secure.gravatar.com\/avatar\/817f6e9b8dee5617022866b23968383d?s=24&d=mm&r=g",
+		"48": "https:\/\/secure.gravatar.com\/avatar\/817f6e9b8dee5617022866b23968383d?s=48&d=mm&r=g",
+		"96": "https:\/\/secure.gravatar.com\/avatar\/817f6e9b8dee5617022866b23968383d?s=96&d=mm&r=g"
+	},
+	"meta": [],
+	"acf": [],
+	"yoast_head": "<!-- This site is optimized with the Yoast SEO plugin v19.0 - https:\/\/yoast.com\/wordpress\/plugins\/seo\/ -->\n<title>Troy Fix, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...<\/title>\n<meta name=\"robots\" content=\"noindex, follow\" \/>\n<meta property=\"og:locale\" content=\"en_US\" \/>\n<meta property=\"og:type\" content=\"profile\" \/>\n<meta property=\"og:title\" content=\"Troy Fix, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\" \/>\n<meta property=\"og:url\" content=\"https:\/\/www.citethisforme.com\/blog\/author\/tfix\" \/>\n<meta property=\"og:site_name\" content=\"Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\" \/>\n<meta property=\"og:image\" content=\"https:\/\/secure.gravatar.com\/avatar\/817f6e9b8dee5617022866b23968383d?s=500&#038;d=mm&#038;r=g\" \/>\n<script type=\"application\/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https:\/\/schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https:\/\/www.citethisforme.com\/#website\",\"url\":\"https:\/\/www.citethisforme.com\/\",\"name\":\"Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\",\"description\":\"\",\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https:\/\/www.citethisforme.com\/?s={search_term_string}\"},\"query-input\":\"required name=search_term_string\"}],\"inLanguage\":\"en-US\"},{\"@type\":\"ProfilePage\",\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/tfix#webpage\",\"url\":\"https:\/\/www.citethisforme.com\/blog\/author\/tfix\",\"name\":\"Troy Fix, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...\",\"isPartOf\":{\"@id\":\"https:\/\/www.citethisforme.com\/#website\"},\"breadcrumb\":{\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/tfix#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https:\/\/www.citethisforme.com\/blog\/author\/tfix\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/tfix#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https:\/\/www.citethisforme.com\/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Archives for Troy Fix\"}]},{\"@type\":\"Person\",\"@id\":\"https:\/\/www.citethisforme.com\/#\/schema\/person\/15cd4de3964c33cc657859ee4d24a28a\",\"name\":\"Troy Fix\",\"image\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https:\/\/www.citethisforme.com\/#\/schema\/person\/image\/\",\"url\":\"https:\/\/secure.gravatar.com\/avatar\/817f6e9b8dee5617022866b23968383d?s=96&d=mm&r=g\",\"contentUrl\":\"https:\/\/secure.gravatar.com\/avatar\/817f6e9b8dee5617022866b23968383d?s=96&d=mm&r=g\",\"caption\":\"Troy Fix\"},\"mainEntityOfPage\":{\"@id\":\"https:\/\/www.citethisforme.com\/blog\/author\/tfix#webpage\"}}]}<\/script>\n<!-- \/ Yoast SEO plugin. -->",
+	"yoast_head_json": {
+		"title": "Troy Fix, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"robots": {
+			"index": "noindex",
+			"follow": "follow"
+		},
+		"og_locale": "en_US",
+		"og_type": "profile",
+		"og_title": "Troy Fix, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"og_url": "https:\/\/www.citethisforme.com\/blog\/author\/tfix",
+		"og_site_name": "Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+		"og_image": [{
+			"url": "https:\/\/secure.gravatar.com\/avatar\/817f6e9b8dee5617022866b23968383d?s=500&d=mm&r=g"
+		}],
+		"schema": {
+			"@context": "https:\/\/schema.org",
+			"@graph": [{
+				"@type": "WebSite",
+				"@id": "https:\/\/www.citethisforme.com\/#website",
+				"url": "https:\/\/www.citethisforme.com\/",
+				"name": "Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+				"description": "",
+				"potentialAction": [{
+					"@type": "SearchAction",
+					"target": {
+						"@type": "EntryPoint",
+						"urlTemplate": "https:\/\/www.citethisforme.com\/?s={search_term_string}"
+					},
+					"query-input": "required name=search_term_string"
+				}],
+				"inLanguage": "en-US"
+			}, {
+				"@type": "ProfilePage",
+				"@id": "https:\/\/www.citethisforme.com\/blog\/author\/tfix#webpage",
+				"url": "https:\/\/www.citethisforme.com\/blog\/author\/tfix",
+				"name": "Troy Fix, Author at Cite this for Me | Free Reference Generator \u2013 Harvard, APA, MLA, Chicago...",
+				"isPartOf": {
+					"@id": "https:\/\/www.citethisforme.com\/#website"
+				},
+				"breadcrumb": {
+					"@id": "https:\/\/www.citethisforme.com\/blog\/author\/tfix#breadcrumb"
+				},
+				"inLanguage": "en-US",
+				"potentialAction": [{
+					"@type": "ReadAction",
+					"target": ["https:\/\/www.citethisforme.com\/blog\/author\/tfix"]
+				}]
+			}, {
+				"@type": "BreadcrumbList",
+				"@id": "https:\/\/www.citethisforme.com\/blog\/author\/tfix#breadcrumb",
+				"itemListElement": [{
+					"@type": "ListItem",
+					"position": 1,
+					"name": "Home",
+					"item": "https:\/\/www.citethisforme.com\/"
+				}, {
+					"@type": "ListItem",
+					"position": 2,
+					"name": "Archives for Troy Fix"
+				}]
+			}, {
+				"@type": "Person",
+				"@id": "https:\/\/www.citethisforme.com\/#\/schema\/person\/15cd4de3964c33cc657859ee4d24a28a",
+				"name": "Troy Fix",
+				"image": {
+					"@type": "ImageObject",
+					"inLanguage": "en-US",
+					"@id": "https:\/\/www.citethisforme.com\/#\/schema\/person\/image\/",
+					"url": "https:\/\/secure.gravatar.com\/avatar\/817f6e9b8dee5617022866b23968383d?s=96&d=mm&r=g",
+					"contentUrl": "https:\/\/secure.gravatar.com\/avatar\/817f6e9b8dee5617022866b23968383d?s=96&d=mm&r=g",
+					"caption": "Troy Fix"
+				},
+				"mainEntityOfPage": {
+					"@id": "https:\/\/www.citethisforme.com\/blog\/author\/tfix#webpage"
+				}
+			}]
+		}
+	},
+	"_links": {
+		"self": [{
+			"href": "https:\/\/www.citethisforme.com\/wp-json\/wp\/v2\/users\/418"
+		}],
+		"collection": [{
+			"href": "https:\/\/www.citethisforme.com\/wp-json\/wp\/v2\/users"
+		}]
+	}
+}]
